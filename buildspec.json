@@ -33,13 +33,13 @@
     },
     "platformConfig": {
         "macos": {
-            "bundleId": "com.example.plugintemplate-for-obs"
+            "bundleId": "com.example.poe-recorder-plugin"
         }
     },
-    "name": "plugintemplate-for-obs",
-    "displayName": "Plugin Template for OBS",
+    "name": "poe-recorder-plugin",
+    "displayName": "POE Recorder Plugin",
     "version": "1.0.0",
-    "author": "Your Name Here",
+    "author": "Roldan Gammad",
     "website": "https://example.com",
-    "email": "me@example.com"
+    "email": "email@example.com"
 }

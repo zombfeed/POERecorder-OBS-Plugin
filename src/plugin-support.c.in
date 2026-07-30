@@ -1,6 +1,6 @@
 /*
-Plugin Name
-Copyright (C) <Year> <Developer> <Email Address>
+POERecorder OBS Plugin
+Copyright (C) <2026> <Roldan Gammad> <rdgammad@gmail.com>
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -18,8 +18,8 @@ with this program. If not, see <https://www.gnu.org/licenses/>
 
 #include <plugin-support.h>
 
-const char *PLUGIN_NAME = "@CMAKE_PROJECT_NAME@";
-const char *PLUGIN_VERSION = "@CMAKE_PROJECT_VERSION@";
+const char *PLUGIN_NAME = "@POERecorder OBS Plugin@";
+const char *PLUGIN_VERSION = "@0.1.0@";
 
 void obs_log(int log_level, const char *format, ...)
 {
