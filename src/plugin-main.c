@@ -49,7 +49,7 @@ static bool path_of_exile_is_running(void)
 	bool found = false;
 	if (Process32FirstW(snapshot, &entry)) {
 		do {
-			if (_wcsicmp(entry.szExeFile, L"pathofexilesteam.exe") == 0) {
+			if (_wcsicmp(entry.szExeFile, L"pathofexilesteam.exe") == 0 || _wcsicmp(entry.szExeFile, L"pathofexile.exe") == 0) {
 				found = true;
 				break;
 			}
