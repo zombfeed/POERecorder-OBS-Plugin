@@ -6,7 +6,7 @@ An OBS Plugin for recording Path of Exile sessions. Automatically starts recordi
 
 
 ## How to install
-1. Download `zip`/`rar` file from [Released](https://github.com/zombfeed/POERecorder-OBS-Plugin/releases/tag/Release)
+1. Download `zip`/`rar` file from [Releases](https://github.com/zombfeed/POERecorder-OBS-Plugin/releases/tag/Release)
 2. Unzip the contents into `...Program Files\obs-studio\obs-plugins` folder
 
 
